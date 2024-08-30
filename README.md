@@ -1,6 +1,6 @@
 #### **Medical Insurance Cost Prediction**
 
-The **Medical Insurance Cost Prediction** project aims to predict the medical insurance charges based on various factors such as age, sex, BMI, children, smoker status, and region. This is a regression problem where the goal is to predict a continuous outcome (insurance charges).
+The **Medical Insurance Cost Prediction** project aims to predict the medical insurance charges based on various factors such as age, sex, BMI, children, smoker status, and region. This is a regression problem where the goal is to predict a continuous outcome(insurance charges).
 
 **Key Steps and Techniques Used:**
 - **Data Collection and Analysis:**
